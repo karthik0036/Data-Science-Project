@@ -1,4 +1,4 @@
-# Data-Science-Project
+# Credit Risk Management-Project
 
 ## Overview of the problem
 In this project you will have to put yourself in the shoes of a loan issuer and manage credit risk by using the past data and deciding whom to give the loan to in the future. The text files contain complete loan data for all loans issued by XYZ Corp. The data contains the indicator of default, payment information, credit history, etc.
